@@ -30,14 +30,14 @@ export default function Contact() {
       icon: Github,
       label: "GitHub",
       value: "github.com",
-      href: "https://github.com",
+      href: "https://github.com/keli-kekeli-christ",
       color: "from-gray-500 to-slate-500",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       value: "linkedin.com",
-      href: "https://linkedin.com",
+      href: "https://linkedin.com/in/christ-kekeli-keli",
       color: "from-blue-600 to-blue-700",
     },
   ];
